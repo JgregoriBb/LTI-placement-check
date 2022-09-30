@@ -37,7 +37,6 @@ pip3 install alive-progress
     * read course content
 
 >:warning: Do NOT use an admin user to register your application!
->:warning: Make sure to log a ticket to raise the API rate
 
 More information can be found in Anthology´s [developer 
 documentation page](https://docs.anthology.com/rest-apis/learn/getting-started/registry)
