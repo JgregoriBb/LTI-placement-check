@@ -9,6 +9,8 @@ test.py
 credentials
 research.ipynb
 sa_submissions
+lti_report_test.csv
+lti_report.csv
 
 # Editors
 .vscode/
